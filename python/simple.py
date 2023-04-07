@@ -7,8 +7,9 @@ def function1():
 function1()
 
 def func2(tekst):
-    print("De tekst is " + tekst)
     i = 23
     print("i = " + str(i))
 
 func2("Hoi")
+
+print("het is klaar")
